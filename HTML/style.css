@@ -1,0 +1,80 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+h1{
+text-align: center;
+}
+div{ 
+   max-width: 650px;
+    border: 10px groove #4a1139;
+background-image:url(https://img.freepik.com/free-vector/copy-space-bokeh-spring-lights-background_52683-55649.jpg?w=1380&t=st=1694838484~exp=1694839084~hmac=5e1f257cb88305829476c7157eae8d042fe383210adfd97e36a6d40f8069e9b9);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    padding: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-left: 350px;   
+}
+body input{
+  margin: auto;
+ padding-bottom: 5px;
+  width: auto;
+}
+.addr{ 
+    margin-left: 122px;
+}
+#fname{
+    margin-left: 80px;
+}
+  #lname{  
+    margin-left: 78px;
+  } 
+  #mname{ 
+    margin-left: 78px;
+  }
+  .dob{
+margin-left:93px ;
+padding-right: 148px; 
+  }
+  .mail{
+    margin-left:138px ;
+  }
+  .subt{
+    margin-left: 50%;
+    background-color: rgb(190, 7, 7); color: azure;
+    border-radius: 5px;
+    
+  }
+.file{
+    margin-left: 81px;
+  }
+  #Phn{
+    margin-left: 75px;
+  }
+  .crs{
+    margin-left: 125px;
+  }
+.dpt{
+  margin-left: 92px;
+}
+  .gen{
+    margin-left:19%;
+  }
+
+ 
+  
+  
+ 
+    
+
+
+
+   
+
+
+
+

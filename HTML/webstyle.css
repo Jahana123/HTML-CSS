@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+margin bottom: 20px;}
+
+.nav{
+  }
+  .header { 
+    font-style: italic; font-variant: small-caps; font-size: 30px; color: rgb(255, 255, 0);
+    background-color: #3946d3;
+    padding: 20px;
+    text-align: center;}
+    .nav {
+        overflow: hidden;
+        background-color:yellow;
+      }
+      .nav a {
+        float: left;
+        display: block;
+        color: #1914ac;
+        text-align: center;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      .nav a:hover{ background-color: rgb(23, 58, 186) ; color: white;}
+      .active{ background-color:rgb(212, 36, 36) ;} 
+       nav a:hover :not(.active){ background-color: rgb(23, 58, 186);}
+       input[type=text] {
+        width: 130px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+        background-color: white;
+        background-image: url("");
+        background-position: 5px;
+        background-repeat: no-repeat;
+        padding: 12px 14px 1px 12px;
+        transition: width 0.4s ease-in-out;
+      }
+      
+      input[type=text]:focus {
+        width: 100%;
+      }
+       .dropbtn{
+        text-align: center;
+        background-color: #8b1616;
+        color: white;
+        padding: 10px 58px 10px 10px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+      }
+      
+      .dropdown {
+        position: relative;
+        display: inline-block;}
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            right: 0;
+            background-color:yellow;
+            min-width: 130px;
+            box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          .dropdown-content a {
+            color: black;
+            padding: 10px 10px;
+            text-decoration: none;
+            display: block;
+          }
+          
+          .dropdown-content a:hover {background-color: #0931f8; color: white;}
+          
+          .dropdown:hover .dropdown-content {
+            display: block;
+          }
+          
+          .dropdown:hover .dropbtn {
+            background-color: #1122be;
+          }
+          .column {
+            float: left;
+            padding: 10px;
+          }
+          .column.side {
+            width: 3%;
+          }
+          .column.middle { 
+            width: 80%; margin-right: 90%;
+          }
+          
+          .img1{ padding-left: 40%; background-attachment: fixed; padding-bottom: 10px;    height: auto; width: auto;}
+          .img2{ padding-left: 40%;  background-attachment: fixed; padding-bottom: 10px;       height: auto; width: auto;}
+.img3{ padding-left: 40%; background-attachment: fixed;padding-bottom: 10px;      height: auto; width: auto;}
+.img4{ padding-left: 40%; background-attachment: fixed;padding-bottom: 10px;      height: auto; width: auto;}
+.img5{ padding-left: 40%; background-attachment: fixed;padding-bottom: 10px;      height: auto; width: auto;}
+.img6{ padding-left: 40%; background-attachment: fixed;padding-bottom: 10px;      height: auto; width: auto;}
+.img7{ padding-left: 40%; background-attachment: fixed;padding-bottom: 10px;      height: auto; width: auto;}
+.img8{ padding-left: 40%; background-attachment: fixed;padding-bottom: 10px;      height: auto; width: auto;}
+.img9{ padding-left: 40%; background-attachment: fixed;padding-bottom: 10px;      height: auto; width: auto;}
+                                                                                              
+
+
+
+          
+          .footer {
+            background-color:thistle
+            width: 100%;
+            padding: 10px;
+            text-align: center;
+          }
+          .row{
+            align-items: center;
+          }
+          
+          .col.logo{
+            width: 100px;
+          }
+          .icons{ padding: 20px; margin: 10px; font-size: 30px; color: blue;}
+              
+                
+          

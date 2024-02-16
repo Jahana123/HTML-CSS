@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ div{
+ max-width: 650px;
+    border: 15px solid rgb(255, 255, 0);
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 400px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    outline-offset:5px;
+    outline-style: ridge;
+    outline-color: rgb(255, 0, 0);
+    outline-width: 10px;
+    background-image: url(https://pub-static.fotor.com/assets/bg/97d411cb-569e-400f-9d29-b5ddc1bc7b05.png);
+    background-size: cover;
+    background-attachment: fixed; 
+ }   
+.lg{
+    padding-left: 90%;
+    padding-top: 20px;
+    text-decoration: none; text-transform: uppercase; font-weight: lighter; font-size: medium;
+}
+.pg{
+    text-decoration:underline;
+    margin-left: 90%;  
+}
+.ab{
+   text-decoration:underline;
+    margin-left: 90%;}
+.cnt{
+    text-decoration:underline;
+    margin-left: 90%;}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 1px; text-decoration-style: wavy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  color: rgb(133, 11, 72); 
+}h1 span{ color: rgb(255, 0, 0);}
+p {
+    text-indent: 30px;
+    text-align: justify; line-height: 1.5; word-spacing:1.3; color: rgb(21, 1, 6); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_-CAGT5DtdAXf5E-eSoYFUwyaLZflXd-A8V4NTY5ZVMe-6-OCc9dhsJOBMgJUEeWrQw&usqp=CAU);
+    background-position: center; font-size: 17px;
+background-repeat: no-repeat; background-attachment: fixed; font-variant: small-caps;  text-align-last: left;
+}
+a:hover{ color: deeppink; }
+a:active{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; background-color: rgb(3, 150, 218); cursor: pointer; transition: 1s;}
+button{ color: white; background-color: rgb(24, 5, 71); padding-left: 5px;  padding-right: 5px; border-radius: 5px;}
